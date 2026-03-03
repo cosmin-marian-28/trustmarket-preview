@@ -2,6 +2,21 @@
 
 This is a curated selection of files from a production marketplace application I built solo. The full project contains 50+ Cloud Functions, 30+ Flutter pages, and 50+ database migrations. Only architecture-representative files are shared here — payment logic, AI pipelines, and identity verification are kept private.
 
+## Preview
+
+<p align="center">
+  <img src="screenshots/home_screen.PNG" width="200" />
+  <img src="screenshots/promotion_page.jpeg" width="200" />
+  <img src="screenshots/profile_page.PNG" width="200" />
+  <img src="screenshots/product_detail_page.PNG" width="200" />
+</p>
+
+<p align="center">
+  <img src="screenshots/add.PNG" width="200" />
+  <img src="screenshots/service_detail_own.PNG" width="200" />
+  <img src="screenshots/faq.PNG" width="200" />
+</p>
+
 ## Tech Stack
 
 - **Frontend:** Flutter/Dart (iOS, Android, Web)
